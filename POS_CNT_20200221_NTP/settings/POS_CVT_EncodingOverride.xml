@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>D:\shoponair\src\pos_cvt\Application\main\func.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\shoponair\src\pos_cvt\Application\main\process_data.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\shoponair\src\pos_cvt\Application\main\shoponair.c</path>
+        <encoding>System</encoding>
+    </override>
+</userOverrides>
